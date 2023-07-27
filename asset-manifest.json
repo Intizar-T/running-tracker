@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/running-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/running-tracker/static/js/main.e7a9e026.js",
+    "static/js/787.ac406d8a.chunk.js": "/running-tracker/static/js/787.ac406d8a.chunk.js",
+    "index.html": "/running-tracker/index.html",
+    "main.e6c13ad2.css.map": "/running-tracker/static/css/main.e6c13ad2.css.map",
+    "main.e7a9e026.js.map": "/running-tracker/static/js/main.e7a9e026.js.map",
+    "787.ac406d8a.chunk.js.map": "/running-tracker/static/js/787.ac406d8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e7a9e026.js"
+  ]
+}
