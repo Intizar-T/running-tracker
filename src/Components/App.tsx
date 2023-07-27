@@ -1,10 +1,15 @@
-import React from "react";
+import { Box } from "@mui/material";
+import Calendar from "./Calendar";
 
 function App() {
   return (
-    <div>
-      <p>Yo</p>
-    </div>
+    <Box
+      sx={{
+        height: "100vh",
+      }}
+    >
+      <Calendar />
+    </Box>
   );
 }
 
