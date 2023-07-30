@@ -59,8 +59,8 @@ export default function Calendar({ showLoginModal, user }: CalendarProps) {
               backgroundPosition: "center",
               backgroundSize: "cover",
               backgroundRepeat: "no-repeat",
-              height: "10vh",
-              minWidth: "25vw",
+              // height: "1vh",
+              // minWidth: "1vw",
             }}
             onDoubleClick={() => {
               if (user == null) {
